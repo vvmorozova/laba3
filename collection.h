@@ -24,7 +24,7 @@ private:
         Element* prevElem;
 
     public:
-        Element() //по умолчанию
+        Element() //конструктор по умолчанию
         {
             number = new T();
             nextElem = nullptr;
