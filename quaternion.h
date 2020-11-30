@@ -1,8 +1,5 @@
 #ifndef QUATERNION_H
 #define QUATERNION_H
-
-//#pragma once
-
 #include <string>
 #include "complexnumber.h"
 
