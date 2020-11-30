@@ -1,8 +1,6 @@
 #ifndef COMPLEXNUMBER_H
 #define COMPLEXNUMBER_H
 
-//#pragma once
-
 #include <string>
 #include <stdexcept>
 #include <iostream>
