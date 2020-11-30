@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 
-//#pragma once
+
 
 #include "complexnumber.h"
 
