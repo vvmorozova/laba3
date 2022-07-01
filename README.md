@@ -1,2 +1,2 @@
-# Лабораторная №3 по ОПП на 3 курсе ИВТ МИЭМ НИУ ВШЭ
-Целью данной лабораторной является создать графический пользовательский интерфейс для работы с комплексными числами.
+# Laboratory work 3-rd year HSE MIEM | Information Science and Computation Technology
+Complex number calculator.
